@@ -12,7 +12,7 @@
 .weather-app{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content:center;
   align-items: center;
   width: 350px;
   min-height: 440px;
